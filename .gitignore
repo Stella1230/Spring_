@@ -1,9 +1,0 @@
-# Project exclude paths
-/ithema_spring_aop/
-/ithema_spring_aop/target/
-/ithema_spring_ioc/
-/ithema_spring_ioc/target/
-/ithema_spring_jdbc/
-/ithema_spring_jdbc/target/
-/ithema_spring_test/
-/ithema_spring_test/target/
